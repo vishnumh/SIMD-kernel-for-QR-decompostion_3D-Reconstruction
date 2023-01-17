@@ -1,4 +1,3 @@
-# from stack overflow: ~/questions/21548464/how-to-write-a-makefile-to-compile-a-simple-c-program 
 CC				= gcc
 CC_FLAGS 	= -mavx -mfma -mavx -mavx2 -O3 -std=c99
 RM 				= rm -f
