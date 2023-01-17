@@ -11,7 +11,7 @@ To run the program
 ```
 make
 ```
-To remove all the object files and source code
+To remove all the object files.
 ```
 make clean
 ```
